@@ -90,6 +90,14 @@ If you click verify, and only half of your CNAME records verify, this usually me
 
 Any time that you send an email with a FROM address whose domain matches the domain set in the domain authentication, SendGrid applies that domain to your email. You only need to update your domain authentication if you want to update the domain you are emailing from.
 
+<academy-link img="/img/SGA_SenderAuthentication750.png" courselink="https://rise.articulate.com/share/tZ8_9DYhJbWPTZN8CmsDK5GH0HPcOA-W">
+
+### Be Who You Say You Are With Sender Authentication
+
+Check out this [Academy Course]() to access actionable tips on how to build trust with mailbox providers and ensure your authentication is set up correctly. 
+
+</academy-link>
+
 ## 	Advanced settings
 
 <iframe src="https://player.vimeo.com/video/267486083" width="700" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
